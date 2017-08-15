@@ -1,0 +1,11 @@
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\obj\Debug\TEST20160627NullCode1.csprojResolveAssemblyReference.cache
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\bin\TEST20160627NullCode1.dll
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\bin\TEST20160627NullCode1.pdb
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\bin\EntityFramework.dll
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\bin\MyCardConn.dll
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\bin\EntityFramework.xml
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\bin\zh-Hant\EntityFramework.resources.dll
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\obj\Debug\TEST20160627NullCode1.dll
+D:\Visual Studio\TEST\TEST20160627NullCode1\TEST20160627NullCode1\obj\Debug\TEST20160627NullCode1.pdb
